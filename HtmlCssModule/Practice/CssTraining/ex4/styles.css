@@ -1,0 +1,15 @@
+.title-block{
+    font-size: 40px;
+}
+
+h1{
+    font-size: 1em;
+}
+
+h2{
+    font-size: 0.5em;
+}
+
+ul:nth-child(2){
+    font-size: 2em;
+}

@@ -1,0 +1,14 @@
+body{
+    background-color: lightsteelblue;
+}
+
+h1{
+    color: beige;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background-color: lightgoldenrodyellow;
+    font-size: 20px;
+}

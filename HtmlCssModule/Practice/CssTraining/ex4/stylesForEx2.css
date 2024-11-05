@@ -1,0 +1,16 @@
+ body{
+    margin: 0;
+}
+
+.blue{
+    background-color: blue;
+    width: 100vw;
+    height: 50%;
+}
+
+.red{
+    background-color: red;
+    height: 100vh;
+    min-width:40px;
+    max-width: 100vwww ;
+}

@@ -1,0 +1,60 @@
+.wrapper{
+    background-color: lightgray;
+    padding: 15px 5px;
+    height: 200vh;
+}
+
+.item{
+    margin: 5px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    display: block;
+}
+
+.item:nth-child(even){
+    margin: 0 0 0 50px ;
+}
+
+.item:last-child{
+    position: fixed;
+    bottom: 0;
+}
+
+.item:first-child{
+    position: sticky;
+    top: 0;
+    background: red;
+}
+
+.pink{
+    width: 100%;
+    height: 200px;
+     background: pink;
+     position: absolute;
+
+}
+
+h1{
+    font-size: 100px;
+    padding: 50px;
+    margin: 0;
+    position: absolute;
+}
+
+.blue{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    position: absolute;
+}
+
+.red{
+    width: 100px;
+    height: 100px;
+    background:red;
+    border-radius: 50%;
+    position: absolute; 
+    top: 50px; 
+    right: 50px;
+}
